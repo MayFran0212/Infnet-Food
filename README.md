@@ -25,6 +25,16 @@ O **Infnet Food** é um aplicativo móvel de delivery de comida desenvolvido em 
 
 ---
 
+## 📸 Demonstração da Aplicação (Prints)
+
+Abaixo estão as capturas de tela do aplicativo rodando em ambiente de testes:
+
+| Tela de Login | Tela Inicial / Home | Detalhes do Produto (Dark Mode) |
+| :---: | :---: | :---: |
+| ![Tela de Login](./assets/1tela-login.png) | ![Tela Home](./assets/2tela-home.png) | ![Produto Dark](./assets/3tela-produto-dark.png) |
+
+---
+
 ## 📦 Como Executar o Projeto
 
 Siga os passos abaixo para rodar a aplicação localmente no seu computador ou dispositivo móvel:
