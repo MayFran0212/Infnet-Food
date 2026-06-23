@@ -31,7 +31,7 @@ Abaixo estão as capturas de tela do aplicativo rodando em ambiente de testes:
 
 | Tela de Login | Tela Inicial / Home | Detalhes do Produto (Dark Mode) |
 | :---: | :---: | :---: |
-| ![Tela de Login](./assets/1tela-login.png) | ![Tela Home](./assets/2tela-home.png) | ![Produto Dark](./assets/3tela-produto-dark.png) |
+| ![Tela de Login](./assets/1tela-login.jpeg) | ![Tela Home](./assets/2tela-home.jpeg) | ![Produto Dark](./assets/3tela-produto-dark.jpeg) |
 
 ---
 
